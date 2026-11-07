@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bismahkhalid.github.io/sitemap.xml
